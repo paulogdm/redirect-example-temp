@@ -1,3 +1,6 @@
-## How to test this locally
+## Example showing how to redirect using `has`
 
-1. 
+Check:
+
+1. `next.config.js`
+2. `api/redirect-helper.js`
